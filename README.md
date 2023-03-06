@@ -4,7 +4,7 @@ variable names, comments, and log content of a given code while keeping its stru
 
 Installation:
 ```
-1. go get github.com/wangtuanjie/rscode
+1. go install github.com/wangtuanjie/rscode
 2. export OPENAI_API_KEY=<your_key_here>
 ```
 
